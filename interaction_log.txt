@@ -1,0 +1,13 @@
+2024-11-12 14:16:37.148973: User: hello | Chatbot: help recovering my password
+2024-11-12 14:16:51.136994: User: yes i need to recover my password  | Chatbot: help recovering my password
+2024-11-12 14:17:00.678219: User: B | Chatbot: help recovering my password
+2024-11-12 14:17:04.994771: User: IBMP | Chatbot: help recovering my password
+2024-11-12 14:17:12.391916: User: how to delete  | Chatbot: tell me more about user account deletions
+2024-11-12 14:17:25.787687: User: one  | Chatbot: help using another user profile
+2024-11-12 14:18:18.694908: User: order | Chatbot: what do i have to do to check my order eta 
+2024-11-12 14:18:26.759572: User: order | Chatbot: what do i have to do to check my order eta 
+2024-11-12 14:18:32.193700: User: cancel order | Chatbot: could you help me to cancel my last order 
+2024-11-12 14:19:16.835695: User: goodbye! | Chatbot: help recovering my password
+2024-11-12 14:20:19.311577: User: When will my order arrive? | Chatbot: where do i check how soon can i expect the item 
+2024-11-12 14:20:30.935476: User: How do I return an item? | Chatbot: i am trying to buy something
+2024-11-12 14:21:15.259967: User: helllo | Chatbot: help recovering my password
